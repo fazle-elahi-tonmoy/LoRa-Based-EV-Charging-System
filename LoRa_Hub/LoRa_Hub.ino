@@ -21,7 +21,7 @@ uint32_t refresh_timer;
 int charge_time = 0;
 
 // Google script Web_App_URL.
-String Web_App_URL = "https://script.google.com/macros/s/AKfycbxuZBoEiejiOv-f4wR4yYROW4VvoYCSfc1lcPwL1t5OfiSszYDbl5Li3O8vZLAz5ip_/exec";
+String Web_App_URL = "https://script.google.com/macros/s/replace_with_your_sheet_ID/exec";
 String str_modes = "atc";
 String LoRaData, RFID, HubID;
 
